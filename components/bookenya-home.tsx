@@ -51,7 +51,7 @@ const initialFilters: SearchFilters = {
   rooms: 1
 };
 
-const officialSupportPhone = "+254700000000";
+const officialSupportPhone = "+447401146290";
 const whatsappPhone = officialSupportPhone.replace(/\D/g, "");
 
 export function BookenyaHome() {
